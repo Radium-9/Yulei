@@ -163,4 +163,4 @@ awards:
 
 ## About Me
 
-Yulei Zhang is an undergraduate student of optical engineering at Zhejiang University. His research interests include optical imaging, nanophotonics, and light field manipulation. He She has consistently achieved excellent academic performance and published several scientific papers in relevant fields.
+Yulei Zhang is an undergraduate student of optical engineering at Zhejiang University. His research interests include optical imaging, nanophotonics, and light field manipulation. He has consistently achieved excellent academic performance and published several scientific papers in relevant fields.

@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        As an undergraduate majoring in Optical Science and Engineering, I am deeply fascinated by the various phenomena involved in light-matter interactions. Particularly, I am eager to explore complex physical systems such as random scattering media and their applications in light field manipulation. Recently, I have developed a compact hyperspectral camera enabled by randomized hybrid metamaterials composed of TiO2 and PDMS, achieving a high spectral resolution of approximately 3 nm.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         

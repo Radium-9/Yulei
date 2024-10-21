@@ -37,9 +37,9 @@ sections:
       text: |-
         As an undergraduate majoring in Optical Science and Engineering, I am deeply fascinated by the various phenomena involved in light-matter interactions. Particularly, I am eager to explore complex physical systems such as random scattering media and their applications in light field manipulation.
 
-    Recently, I have developed a compact hyperspectral camera enabled by randomized hybrid metamaterials composed of TiO2 and PDMS, achieving a high spectral resolution of approximately 3 nm.
+        Recently, I have developed a compact hyperspectral camera enabled by randomized hybrid metamaterials composed of TiO2 and PDMS, achieving a high spectral resolution of approximately 3 nm.
 
-    Please reach out to collaborate 😃
+        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

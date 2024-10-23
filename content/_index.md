@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research interests'
       subtitle: ''
       text: |-
         As an undergraduate majoring in Optical Science and Engineering, I am deeply fascinated by the various phenomena involved in light-matter interactions. Particularly, I am eager to explore complex physical systems such as random scattering media and their applications in light field manipulation.
@@ -40,16 +40,6 @@ sections:
         Recently, I have developed a compact hyperspectral camera enabled by randomized hybrid metamaterials composed of TiO2 and PDMS, achieving a high spectral resolution of approximately 3 nm.
 
         Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
     design:
       view: article-grid
       columns: 2
@@ -62,21 +52,12 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
       view: article-grid
       columns: 1
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent researches
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

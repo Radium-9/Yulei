@@ -55,7 +55,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: researches
     content:
       title: Recent researches
       subtitle: ''

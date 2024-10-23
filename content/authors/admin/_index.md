@@ -1,9 +1,6 @@
 ---
 # Display name
-title: 张雨镭
-
-# Name pronunciation (optional)
-name_pronunciation: Yulei Zhang
+title: Yulei Zhang
 
 # Full name (for SEO)
 first_name: Yulei
